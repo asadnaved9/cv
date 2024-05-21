@@ -1,0 +1,29 @@
+/* img:hover{
+    background-color: #006769;
+}
+.head{
+    color: blue;
+}
+.edu:hover{
+    color:red;
+}
+#main:hover{
+    color: black;
+} */
+body{
+    background-color: #E6FF94 ;
+}
+hr{
+    border-style: dashed none none ;
+    border-color: grey;
+    border-width: 2px;
+    width: 15%;
+    height: 0px;
+}
+h1{
+    color: #037f82 ;
+}
+h3{
+    color: #006769;
+}
+
